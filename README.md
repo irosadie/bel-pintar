@@ -1,7 +1,6 @@
 ## This project prioritizes speed, so apologies for the messy coding structure
 
-<span style="color:blue">\*\*As we know, Android has limited notifications with dynamic audio, so in order for the bell to ring properly, the application must not be completely closed, instead it can be minimized
-</span>
+#### As we know, Android has limited notifications with dynamic audio, so in order for the bell to ring properly, the application must not be completely closed, instead it can be minimized
 
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
