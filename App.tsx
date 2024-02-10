@@ -247,7 +247,7 @@ const App = () => {
 
   return (
     <Fragment>
-      <StatusBar backgroundColor="#e9bd19" barStyle="default" />
+      <StatusBar backgroundColor="#EAB308" barStyle="default" />
       <SafeAreaView className="h-full w-full flex-1">
         <BottomSheetModalProvider>
           <NavigationContainer>

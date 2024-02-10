@@ -299,7 +299,7 @@ const PlayerScreen = () => {
   return (
     <View className="flex-1">
       <ScrollView className="flex-1 bg-slate-50 pb-12 h-full">
-        <View className="h-[30vh] bg-yellow-400 items-center justify-end pb-6">
+        <View className="h-[30vh] bg-yellow-500 items-center justify-end pb-6">
           <View className="absolute top-3 left-4 bg-slate-50 rounded-full p-2 shadow shadow-slate-300">
             <TouchableOpacity onPress={handleGoBack} className="bg-transparent">
               <FontAwesomeIcon icon={faArrowLeft} size={20} color="#b2b2b2" />

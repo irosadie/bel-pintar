@@ -11,6 +11,10 @@ const PrivacyPolicyScreen = () => {
   useEffect(() => {
     navigation.setOptions({
       title: 'Privasi dan Kebijakan',
+      headerStyle: {
+        backgroundColor: '#EAB308',
+      },
+      headerTintColor: '#eee',
     });
   }, []);
 

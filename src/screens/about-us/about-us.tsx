@@ -12,6 +12,10 @@ const AboutUsScreen = () => {
   useEffect(() => {
     navigation.setOptions({
       title: 'Tentang Kami',
+      headerStyle: {
+        backgroundColor: '#EAB308',
+      },
+      headerTintColor: '#eee',
     });
   }, []);
 
