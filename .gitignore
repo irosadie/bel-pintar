@@ -64,3 +64,4 @@ yarn-error.log
 
 # testing
 /coverage
+/android/app/src/main/assets/appcenter-config.json
