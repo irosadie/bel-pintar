@@ -91,7 +91,7 @@ android {
         release {
             if (project.hasProperty('MYAPP_RELEASE_STORE_FILE')) {
                 storeFile file('my-release-key.keystore')
-                storePassword '5ayagantenG@'
+                storePassword '5ayagantengKhanH3h3'
             }
         }
     }
